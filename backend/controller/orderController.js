@@ -1,4 +1,4 @@
-const Order = require("../model/order");
+const Order = require("../model/Order");
 const sendEmail = require("../utils/sendEmail");
 
 // Create Order
